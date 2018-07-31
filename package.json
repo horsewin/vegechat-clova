@@ -1,0 +1,12 @@
+{
+  "name": "VegeChatSkill",
+  "description": "VegeChat is the skill to answer vegetable information.",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "alexa-conversation": "^0.2.0",
+    "alexa-sdk": "^1.0.25",
+    "crypto": "^1.0.1"
+  },
+  "constributors": []
+}
